@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tnagaveni
-- 👀 I’m interested in Data Analysis & Data engineering 
+- 👀 I’m interested in Java full Stack devloper 
 - 🌱 I’m currently learning Master in computer Applications 
 - 💞️ I’m looking to collaborate on student level project collaborations
 - 📫 tnagaveni1818@gmail.com
